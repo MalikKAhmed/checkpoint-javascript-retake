@@ -10,7 +10,9 @@ class Group {
     this.name = 'name',
     members = []
   }
-  addMember(name)
+  addMember(){
+    group.name.push
+  }
 }
 
 // #2: Create an instance of the Group class and set it to a variable called `classmates`
